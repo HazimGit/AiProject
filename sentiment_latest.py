@@ -43,10 +43,10 @@ plt.style.use('fivethirtyeight')
 """**Authentication key from Twitter**"""
 
 # Authentication
-#consumerKey = "joRXs4gsNXliJb0aOCqTuF2Pa"
-#consumerSecret = "1J8YpCxynexiyW0ygZo9ClETAelqklOYPOCAjNxkLcAwrmRyIv"
-#accessToken = "832914904281608192-JYCITkWVwxI4jXKPiSz0dLI5pSKp6vU"
-#accessTokenSecret = "152Ew3LbgPve6T72bQ2Zj0FcdMufMJz5zlQtr6uAlP6zi"
+#consumerKey = ""
+#consumerSecret = ""
+#accessToken = ""
+#accessTokenSecret = ""
 
 #auth = tweepy.OAuthHandler(consumerKey, consumerSecret)
 #auth.set_access_token(accessToken, accessTokenSecret)
